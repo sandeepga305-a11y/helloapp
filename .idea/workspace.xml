@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="361d9e21-1219-4514-8f93-aa19a2ec0393" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HelloApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HelloApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,15 +23,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sandeepga305-a11y/helloapp.git",
-    "accountId": "a37ef23d-7aed-42f4-838b-f9e2a0dab270"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sandeepga305-a11y/helloapp.git&quot;,
+    &quot;accountId&quot;: &quot;a37ef23d-7aed-42f4-838b-f9e2a0dab270&quot;
   }
-}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
   &quot;fromUser&quot;: false
@@ -44,11 +49,12 @@
   "keyToString": {
     "Application.HelloApp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "feature/uc1-display-hello",
+    "git-widget-placeholder": "feature/UC2-display-name",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/sande/IdeaProjects/helloapp/src/main/java/org/example/Main.java"
   }
