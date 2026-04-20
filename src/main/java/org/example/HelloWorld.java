@@ -6,20 +6,10 @@ public class HelloWorld {
             System.out.println("Hello, World!");
         } else {
 
-            String result = "Hello, ";
-
-            // Add all names with comma
+            // Enhanced for loop
             for (String name : args) {
-                result += name + ", ";
+                System.out.println("Hello, " + name + "!");
             }
-
-            // Remove last ", " using substring
-            result = result.substring(0, result.length() - 2);
-
-            // Add exclamation mark
-            result += "!";
-
-            System.out.println(result);
         }
     }
 }
