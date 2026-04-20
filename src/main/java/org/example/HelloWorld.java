@@ -7,20 +7,11 @@ public class HelloWorld {
             System.out.println("Hello, World!");
         } else {
 
-            String result = "Hello, ";
+            // Join all names with comma
+            String names = String.join(", ", args);
 
-            // Add all names with comma
-            for (String name : args) {
-                result += name + ", ";
-            }
-
-            // Remove last ", " using substring
-            result = result.substring(0, result.length() - 2);
-
-            // Add exclamation mark
-            result += "!";
-
-            System.out.println(result);
+            // Print final output
+            System.out.println("Hello, " + names + "!");
         }
     }
 }
